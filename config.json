@@ -1,65 +1,25 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/blandk77/Url-Uploader-Bot",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "TECH_VJ_BOT_TOKEN": ""
         },
         "run": "run.sh"
     },
     "bot2": {
-        "source": "repo_link",
+        "source": "https://github.com/blandk77/Rename-Bot-2GB",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": ""
         },
         "run": "run.sh"
     },
     "bot3": {
-        "source": "repo_link",
+        "source": "https://github.com/blandk77/Autofilter",
         "branch": "master",
         "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": ""
         },
         "run": "run.sh"
     }
