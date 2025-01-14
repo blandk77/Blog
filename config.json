@@ -3,7 +3,7 @@
         "source": "https://github.com/blandk77/Url-Uploader-Bot",
         "branch": "master",
         "env": {
-            "TECH_VJ_BOT_TOKEN": ""
+            "TECH_VJ_BOT_TOKEN": "7987512854:AAFBM6Z3Am6M9C1uHAsWpe_zS0ehJQq8MyI"
         },
         "run": "run.sh"
     },
@@ -11,7 +11,7 @@
         "source": "https://github.com/blandk77/Rename-Bot-2GB",
         "branch": "master",
         "env": {
-            "BOT_TOKEN": ""
+            "BOT_TOKEN": "7299345692:AAEoPK2UkI85plbum9CPHaupNpnHcyCtjLc"
         },
         "run": "run.sh"
     },
@@ -19,7 +19,7 @@
         "source": "https://github.com/blandk77/Autofilter",
         "branch": "master",
         "env": {
-            "BOT_TOKEN": ""
+            "BOT_TOKEN": "7931367906:AAEdd-I6M-iDekw-jsFYezdi6ZqIB6rFFN8"
         },
         "run": "run.sh"
     }
